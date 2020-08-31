@@ -11,9 +11,11 @@ $ hub install reading_pictures_writing_poems==1.0.0
 
 # 命令行预测示例
 $ hub run reading_pictures_writing_poems --input_image "scenery.jpg"
-效果如下：
-蕾蕾海河海，岳峰岳麓蔓。
-不萌枝上春，自结心中线。
+
+![](https://ai-studio-static-online.cdn.bcebos.com/69a9d5a5472449678a08e1ee5066c81b5859827647d74eb8a674afabbc205ae5)
+<br>AI根据这张图片生成的古诗是： <br>
+- 蕾蕾海河海，岳峰岳麓蔓。
+- 不萌枝上春，自结心中线。
 
 # Module API说明
 ## WritingPoem(self, image, use_gpu=False)
