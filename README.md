@@ -3,6 +3,19 @@
 
 类别 文本 - 文本生成
 
+# 使用说明
+使用前，请先安装PaddlePaddle：
+
+> 安装gpu版的paddlepaddle
+~~~
+pip install paddlepaddle-gpu == 2.0.0rc
+~~~
+> 或者安装cpu版本的paddlepaddle 
+~~~
+pip install paddlepaddle == 2.0.0rc
+~~~
+支持的系统：Windows / Mac / Linux
+
 # 模型概述
 看图写诗（reading_pictures_writing_poems），该模型可自动根据图像生成古诗词。该PaddleHub Module支持预测。
 
