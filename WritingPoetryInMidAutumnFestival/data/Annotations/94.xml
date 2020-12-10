@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>94.jpg</filename>
+<path>D:\desktop\MidAutumn\JPEGImages\94.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>532</width>
+    <height>300</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>moon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>241</xmin>
+        <ymin>127</ymin>
+        <xmax>291</xmax>
+        <ymax>177</ymax>
+    </bndbox>
+</object>
+</annotation>

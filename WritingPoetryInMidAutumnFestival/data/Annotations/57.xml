@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>57.jpg</filename>
+<path>D:\desktop\MidAutumn\JPEGImages\57.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>500</width>
+    <height>307</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>moon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>189</xmin>
+        <ymin>72</ymin>
+        <xmax>317</xmax>
+        <ymax>202</ymax>
+    </bndbox>
+</object>
+</annotation>

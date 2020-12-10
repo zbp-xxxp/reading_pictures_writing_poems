@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>67.jpg</filename>
+<path>D:\desktop\MidAutumn\JPEGImages\67.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>500</width>
+    <height>500</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>MoonCake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>95</xmin>
+        <ymin>67</ymin>
+        <xmax>241</xmax>
+        <ymax>211</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>MoonCake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>271</xmin>
+        <ymin>63</ymin>
+        <xmax>423</xmax>
+        <ymax>213</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>MoonCake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>97</xmin>
+        <ymin>287</ymin>
+        <xmax>245</xmax>
+        <ymax>437</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>MoonCake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>271</xmin>
+        <ymin>297</ymin>
+        <xmax>425</xmax>
+        <ymax>447</ymax>
+    </bndbox>
+</object>
+</annotation>

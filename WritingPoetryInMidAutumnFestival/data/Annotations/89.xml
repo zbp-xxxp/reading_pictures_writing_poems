@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>89.jpg</filename>
+<path>D:\desktop\MidAutumn\JPEGImages\89.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>440</width>
+    <height>330</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>MoonCake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>161</xmin>
+        <ymin>102</ymin>
+        <xmax>327</xmax>
+        <ymax>248</ymax>
+    </bndbox>
+</object>
+</annotation>
